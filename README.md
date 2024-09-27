@@ -16,6 +16,31 @@ The interactive map is hosted on GitHub Pages and can be viewed at the following
 - [View the Map Here](https://yg.io/your-repo-name/)
 
 
+#### How the Map was Created
+
+The interactive map was generated using the Folium library, which allows for the rendering of interactive maps in Python. Here’s a summary of the steps used to create the map:
+
+####Data Preparation: A dataset containing information on properties with electric heating systems is loaded.
+####Geocoding: The geopy library is used to convert property postcodes into latitude and longitude coordinates.
+####Marker Clustering: Folium's MarkerCluster plugin is used to group nearby markers to avoid overcrowding on the map.
+####Color-Coded Markers: Each type of electric heating system is color-coded using a predefined color scheme for better visualization.
+####Custom Legend: A legend was added to explain the meaning of different marker colors on the map.
+
+#### Map Legend
+
+Blue: Room heaters, electric
+Green: Air source heat pump, radiators
+Red: Boiler and radiators, electric
+Orange: Electric storage heaters
+Purple: Room heaters, electricity
+Pink: Portable electric heaters
+Gray: No system present (electric heaters assumed)
+Yellow: Electric underfloor heating
+Black: Community Scheme
+
+#### Contributions
+
+Feel free to contribute! If you would like to add improvements or new features, please fork the repository and create a pull request with a detailed description of your changes.
 
 
 
