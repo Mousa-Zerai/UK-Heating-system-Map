@@ -13,7 +13,7 @@ The map has been generated using Python and the **Folium** library, with marker 
 
 ### GitHub Pages (View-Only)
 The interactive map is hosted on GitHub Pages and can be viewed at the following URL:
-- [View the Map Here](https://yg.io/your-repo-name/)
+- [View the Map Here](heating_systems_electric_map_with_clusters_all_rows.html)
 
 
 #### How the Map was Created
