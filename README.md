@@ -38,6 +38,10 @@ Gray: No system present (electric heaters assumed)
 Yellow: Electric underfloor heating
 Black: Community Scheme
 
+![Screenshot 2025-01-23 194308](https://github.com/user-attachments/assets/c0e32755-560a-4d75-bde3-8a280e33b89c)
+
+
+
 #### Contributions
 
 Feel free to contribute! If you would like to add improvements or new features, please fork the repository and create a pull request with a detailed description of your changes.
